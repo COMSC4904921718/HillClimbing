@@ -1,0 +1,3 @@
+Neighbors - Nodes that have a direct path to one another.
+Goal - Node the algorithm is looking for.
+EVAL(x) - function that returns the cost to node x from the start.
